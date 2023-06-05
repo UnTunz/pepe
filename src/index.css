@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    color: #ffefef;
+    font-family: "Roboto",sans-serif;
+}
+header {
+    background-image:url(https://d1ki6hjeuoplax.cloudfront.net/images/_headerImage/7463525/Evelynn-Legends-of-Runeterra-Card.webp);
+    height: 1000px;
+    background-size: cover;
+    background-repeat: no-repeat
+}
+section {
+max-width: 1000px;
+margin: auto;
+padding: 30px 0;
+
+}
+section h1 {
+    font-size: 40px;
+    font-weight: bold;
+    margin: 1em 0;
+ 
+}
+.elescroto {
+    text-align: center;
+}
+.elescroto p {
+    font-size: 60px;
+    font-weight: bold;
+    margin: 1.5em 0;
+}
+.elescroto a {
+    text-decoration: none;
+    color: #f3f3f3;
+    background-color: #8bc34a;
+    padding: 4px 20px;
+    border-radius: 3px;
+    font-size: 20px;
+    margin: 10px;
+}

@@ -1,0 +1,49 @@
+body {
+    color: #850202;
+    background-image:url(https://static.wikia.nocookie.net/leagueoflegends/images/4/4a/Yasuo_Brotherhood.jpg/revision/latest?cb=20200623171810);
+}
+form {
+    background-color: rgb(12, 10, 126);
+    padding: 20px;
+    border-radius: 5px;
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 3rem;
+    margin-bottom: 1rem;
+}
+
+label {
+    display: block;
+    margin-bottom: 0.5rem;
+}
+
+input {
+    padding: 0.5rem;
+    font-size: 1rem;
+    border-radius: 3px;
+    border: none;
+    margin-bottom: 1rem;
+    width: 10%;
+}
+
+input[type="submit"] {
+    background-color: #4CAF50;
+    color: white;
+    cursor: pointer;
+    font-size: 1.2rem;
+    padding: 0.5rem 1rem;
+    transition: background-color 0.2s;
+}
+
+input[type="submit"]:hover {
+    background-color: #3e8e41;
+}
+
+.form{
+    background : #3e8e41
+
+
+}
